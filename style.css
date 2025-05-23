@@ -1,0 +1,15 @@
+* {
+  background-color: pink;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+a {
+  color: red;
+  text-decoration: unset;
+  margin: 8px;
+}
